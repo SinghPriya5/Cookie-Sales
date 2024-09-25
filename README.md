@@ -1,7 +1,7 @@
 <h1>🍪 <strong>Cookie Sales Analysis Using Advanced Excel</strong> 🍪</h1>
 
-**Cookie Sales2019**<p><img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookie%20Company.png" alt="Cookie Sales Dashboard" width="1000" height="500"> </p><!-- Replace with actual image -->
-**Cookie Sales March2019-Jan2020<p>**<img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/newdashboard.png" alt="Cookie Sales Dashboard" width="1000" height="500"></p>
+**Cookie Sales 2019**<p><img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookie%20Company.png" alt="Cookie Sales Dashboard" width="1000" height="500"> </p><!-- Replace with actual image -->
+**Cookie Sales March 2019 - Jan 2020**<p><img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/newdashboard.png" alt="Cookie Sales Dashboard" width="1000" height="500"></p>
 
 <h2>🍪 <strong>Table Of Contents</strong> 🍪</h2>
 <ul>
@@ -18,7 +18,7 @@
 </ul>
 
 <h2 id="introduction">🍪 <strong>Introduction</strong> 🍪</h2>
-<p>This project involves analyzing <strong>Cookie Sales</strong> data using advanced Excel techniques. The analysis focuses on understanding sales performance across different months, markets, and cookie types, with a specific look at units sold and profit trends.</p>
+<p>This project involves analyzing <strong>Cookie Sales</strong> data using advanced Excel techniques. The analysis focuses on understanding sales performance across different months, markets, and cookie types, with a specific look at units sold and profit trends for 2019 and March 2019 - January 2020.</p>
 
 <h2 id="about-the-dataset">🍪 <strong>About the Dataset</strong> 🍪</h2>
 <p>The dataset used for this analysis includes the following key attributes:</p>
@@ -55,43 +55,58 @@
 
 <h2 id="analysis-and-key-insights">🍪 <strong>Analysis and Key Insights</strong> 🍪</h2>
 
-<h3>1. Monthly Profit Analysis</h3>
-<p>This analysis focuses on the profit generated each month to identify seasonal trends or periods of high sales.</p>
+<h3>1. Monthly Profit Analysis (2019)</h3>
+<p>Profit analysis for each month of 2019:</p>
 <ul>
-    <li><strong>January:</strong> $15,000 profit</li>
-    <li><strong>March:</strong> $20,000 profit (Highest)</li>
-    <li><strong>July:</strong> $12,000 profit (Lowest)</li>
+    <li><strong>September:</strong> $25,000</li>
+    <li><strong>October:</strong> $47,000 (Highest)</li>
+    <li><strong>November:</strong> $32,000</li>
+    <li><strong>December:</strong> $27,000</li>
 </ul>
 
-<h3>2. Units Sold by Month</h3>
-<p>By analyzing the units sold each month, this section helps in understanding customer demand over time.</p>
+<h3>2. Units Sold by Month (2019)</h3>
+<p>Units sold across the months in 2019:</p>
 <ul>
-    <li><strong>January:</strong> 5,000 units</li>
-    <li><strong>March:</strong> 7,500 units (Highest)</li>
-    <li><strong>July:</strong> 3,800 units (Lowest)</li>
+    <li><strong>September:</strong> 7,502 units (19%)</li>
+    <li><strong>October:</strong> 13,836 units (35%)</li>
+    <li><strong>November:</strong> 10,193 units (26%)</li>
+    <li><strong>December:</strong> 7,940 units (20%)</li>
 </ul>
 
-<h3>3. Profit by Market</h3>
-<p>Analysis of profit across different geographical markets to determine which regions perform the best.</p>
+<h3>3. Profit by Market & Cookie Type (2019)</h3>
+<p>Profit by market and cookie type in 2019:</p>
 <ul>
-    <li><strong>North America:</strong> $50,000</li>
-    <li><strong>Europe:</strong> $30,000</li>
-    <li><strong>Asia:</strong> $20,000</li>
+    <li><strong>United States:</strong> $340,000 (Chocolate Macadamia)</li>
+    <li><strong>Malaysia:</strong> $20,000</li>
+    <li><strong>Philippines:</strong> $25,000</li>
+    <li><strong>United Kingdom:</strong> $28,000</li>
+    <li><strong>India:</strong> $22,000</li>
 </ul>
 
-<h3>4. Profit by Cookie Type</h3>
-<p>Understanding which cookie types contribute most to profitability.</p>
+<h3>4. Profit by Market & Cookie Type (March 2019 - January 2020)</h3>
+<p>Profit by market and cookie type during March 2019 to January 2020:</p>
 <ul>
-    <li><strong>Chocolate Chip:</strong> $35,000 profit (Highest)</li>
-    <li><strong>Oatmeal Raisin:</strong> $25,000 profit</li>
-    <li><strong>Sugar Cookie:</strong> $10,000 profit (Lowest)</li>
+    <li><strong>India:</strong> Fortune Cookie - $6,500, Oatmeal Raisin - $26,000, Snickerdoodle - $29,000, Sugar Cookie - $24,000</li>
 </ul>
+
+<h3>5. Monthly Profit Analysis (March 2019 - January 2020)</h3>
+<p>Profit across each month during March 2019 to January 2020:</p>
+<ul>
+    <li><strong>September:</strong> $15,887.45</li>
+    <li><strong>October:</strong> $26,652.10</li>
+    <li><strong>November:</strong> $14,205.75</li>
+    <li><strong>December:</strong> $12,800.20</li>
+    <li><strong>January:</strong> $16,153.85</li>
+</ul>
+
+<h3>6. Units Sold by Country (March 2019 - January 2020)</h3>
+<p>All units sold during this period were from India, contributing 100% of the sales.</p>
 
 <h2 id="future-work">🍪 <strong>Future Work</strong> 🍪</h2>
 <p>Future analysis could involve deeper segmentation, such as analyzing customer demographics or adding more data on marketing spend to measure its effect on sales. Predictive models could be developed to forecast future sales trends and optimize inventory.</p>
 
 <h2 id="conclusion">🍪 <strong>Conclusion</strong> 🍪</h2>
-<p>The Cookie Sales analysis highlights key insights into sales performance, with March being the highest-selling month and Chocolate Chip cookies generating the most profit. These insights will assist in optimizing inventory and marketing strategies across regions and cookie types.</p>
+<p>The Cookie Sales analysis highlights key insights into sales performance, with October being the highest-selling month in 2019 and Chocolate Macadamia cookies generating the most profit. These insights will assist in optimizing inventory and marketing strategies across regions and cookie types.</p>
 
 <h2 id="dataset-link">🍪 <strong>Dataset Link</strong> 🍪</h2>
 
@@ -107,4 +122,3 @@
 <p>Thank you for taking the time to explore my Cookie Sales project! I hope you found the analysis insightful and valuable. Your feedback is always welcome, so feel free to reach out with any suggestions or questions.</p>
 
 <p>Let's stay connected! 😊</p>
-
