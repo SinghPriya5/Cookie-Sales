@@ -94,11 +94,14 @@
 <p>The Cookie Sales analysis highlights key insights into sales performance, with March being the highest-selling month and Chocolate Chip cookies generating the most profit. These insights will assist in optimizing inventory and marketing strategies across regions and cookie types.</p>
 
 <h2 id="dataset-link">🍪 <strong>Dataset Link</strong> 🍪</h2>
-[Download the dataset 2019 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookiedata.xlsx)
-[Download the dataset 2019-2020 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/data - Copy.xlsx)
+
+[Download the Excel Dashboard here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookiedata.xlsx)
 
 <h2 id="dashboard-file-link">🍪 <strong>Dashboard File Link</strong> 🍪</h2>
-<p><a href="#">Download the Excel Dashboard here</a> <https://github.com/SinghPriya5/Cookie-Sales/blob/main/data.xlsx></p>
+
+[The dataset 2019 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/data.xlsx)
+
+[The dataset 2019-2020 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/data%20-%20Copy.xlsx.xlsx)
 
 <h2 id="thank-you">🍪 <strong>Thank You</strong> 🍪</h2>
 <p>Thank you for taking the time to explore my Cookie Sales project! I hope you found the analysis insightful and valuable. Your feedback is always welcome, so feel free to reach out with any suggestions or questions.</p>
