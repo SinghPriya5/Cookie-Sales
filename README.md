@@ -1,6 +1,7 @@
 <h1>🍪 <strong>Cookie Sales Analysis Using Advanced Excel</strong> 🍪</h1>
 
-<img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookie%20Company.png" alt="Cookie Sales Dashboard" width="1000" height="500"> <!-- Replace with actual image -->
+**Cookie Sales2019**<p><img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookie%20Company.png" alt="Cookie Sales Dashboard" width="1000" height="500"> </p><!-- Replace with actual image -->
+**Cookie Sales March2019-Jan2020<p>**<img src="https://github.com/SinghPriya5/Cookie-Sales/blob/main/newdashboard.png" alt="Cookie Sales Dashboard" width="1000" height="500"></p>
 
 <h2>🍪 <strong>Table Of Contents</strong> 🍪</h2>
 <ul>
@@ -93,7 +94,8 @@
 <p>The Cookie Sales analysis highlights key insights into sales performance, with March being the highest-selling month and Chocolate Chip cookies generating the most profit. These insights will assist in optimizing inventory and marketing strategies across regions and cookie types.</p>
 
 <h2 id="dataset-link">🍪 <strong>Dataset Link</strong> 🍪</h2>
-<p><a href="#">Download the dataset here</a> <https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookiedata.xlsx></p>
+[Download the dataset 2019 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/Cookiedata.xlsx)
+[Download the dataset 2019-2020 here](https://github.com/SinghPriya5/Cookie-Sales/blob/main/data - Copy.xlsx)
 
 <h2 id="dashboard-file-link">🍪 <strong>Dashboard File Link</strong> 🍪</h2>
 <p><a href="#">Download the Excel Dashboard here</a> <https://github.com/SinghPriya5/Cookie-Sales/blob/main/data.xlsx></p>
